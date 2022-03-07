@@ -18,7 +18,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <div class="navbar-header">
-        <a class="img-fluid navbar-brand" href="#"><img class="logo" src= "C:\PHPCourse\src\Team15\vacation-logos.jpg" alt="Experince Life" width="150"></a> 
+        <a class="img-fluid navbar-brand" href="#"><img class="logo" src= "vacation-logos.jpg" alt="Experince Life" width="150"></a> 
         
     </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
