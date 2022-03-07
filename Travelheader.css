@@ -1,0 +1,130 @@
+.nav-item{
+
+font-size: 14px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: royalblue;
+}
+
+
+aside{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #784c96;
+margin-bottom: 20px;
+}
+
+
+
+
+h3{
+margin-top: 40px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+color: #000000;
+}
+
+
+
+.logo1{
+margin-top: 90px;
+
+}
+
+h2
+{
+text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 30px;
+color: black;
+margin-top: 30px;
+position: relative;
+}
+
+
+
+body
+{
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #000000;
+}
+
+h1
+
+{
+    font-size: 24px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+background-color: #bfbfdb;
+color: rgb(5, 3, 17);
+padding: 8px 10px 8px 10px;
+text-align: center;
+
+}
+
+footer
+{
+
+background-color: rgb(185, 199, 224);
+padding:8px 10px 8px 10px ;
+font-size: 12px;
+margin-top: 30px;
+border: 1px solid #000000;
+}
+
+nav li
+
+{
+display: inline;
+margin-right: 16px;
+}
+
+nav ul
+
+{
+padding-left: 0px;
+
+}
+
+
+nav a, nav a:visited, nav a:active
+
+{
+
+text-decoration:none;
+color: darkslateblue;
+text-transform: uppercase;
+}
+
+
+nav a:hover 
+
+{
+background-color: #7122b2;
+
+}
+
+a, a:visited, a:active {
+    color: black;
+
+}
+
+a, hover
+{
+    text-decoration:none;
+
+}
+
+
+
+.main-image
+{
+    width: 100%;
+height: auto;
+}
+
+.logo
+{
+width: 250px;
+height : auto;
+margin-bottom: 6px;
+}

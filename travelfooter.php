@@ -1,21 +1,22 @@
-</div>
-    </div>
-  </div>
+</article>
+    </main>
+   
 
-  <footer class="page-footer font-small blue bg-light">
+    <footer>
 
-    <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2020 Copyright
-    </div>
-    <!-- Copyright -->
-  
-  </footer>
-</div>
+    
+      
+    
 
+    <aside>
+      <p>Mt. Everest is probably the most famous mountain on Earth, and, at 29,029 feet (8,848 meters), it is certainly the highest in the world. The peak sits on the border between Nepal and the Tibetan Autonomous Region of China, and is called Sagarmatha in Nepali and Chomolangma or Qomolangma in the Sherpa and Tibetan languages</p>
+    </aside>
+    <p>&copy; Dezin, 2022 </p>
+</footer>
 
+   
 
-</body>
-</html>
+    
 <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
