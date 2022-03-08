@@ -1,3 +1,8 @@
+<?php
+$title = " Travel";
+$md = "Launch";
+include 'Travelheader.php' ;?>
+
 
 <form method="post" action="Signupcreate.php" name="Signup-form">
 
@@ -40,3 +45,6 @@
 
 <button type="submit" name="register" value="register">SignUP</button>
 </form>
+
+<?php
+include 'travelfooter.php' ;?>
